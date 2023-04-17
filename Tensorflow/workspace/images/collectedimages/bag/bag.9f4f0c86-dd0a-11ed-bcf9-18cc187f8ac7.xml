@@ -1,0 +1,26 @@
+<annotation>
+	<folder>bag</folder>
+	<filename>bag.9f4f0c86-dd0a-11ed-bcf9-18cc187f8ac7.jpg</filename>
+	<path>E:\tensorflow\TFODCourse\Tensorflow\workspace\images\collectedimages\bag\bag.9f4f0c86-dd0a-11ed-bcf9-18cc187f8ac7.jpg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>640</width>
+		<height>480</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>Phone</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>269</xmin>
+			<ymin>174</ymin>
+			<xmax>390</xmax>
+			<ymax>422</ymax>
+		</bndbox>
+	</object>
+</annotation>
